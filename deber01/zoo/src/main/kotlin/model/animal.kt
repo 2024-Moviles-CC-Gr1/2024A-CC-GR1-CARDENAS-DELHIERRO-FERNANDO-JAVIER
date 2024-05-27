@@ -6,5 +6,6 @@ data class Animal(
     val specie: String,
     val age: Int,
     val dateInput: LocalDate,
-    val weight: Double
+    val weight: Double,
+    val zooName: String
 )
