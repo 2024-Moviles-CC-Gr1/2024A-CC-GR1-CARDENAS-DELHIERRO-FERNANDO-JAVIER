@@ -1,7 +1,5 @@
 package model
 
-import model.Animal
-import java.io.File
 import java.time.LocalDate
 
 data class Zoologico(
