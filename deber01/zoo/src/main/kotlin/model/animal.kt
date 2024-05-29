@@ -7,5 +7,5 @@ data class Animal(
     val age: Int,
     val dateInput: LocalDate,
     val weight: Double,
-    val zooName: String
+    val placeOfOrigin: String
 )
