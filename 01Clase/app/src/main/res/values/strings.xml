@@ -1,4 +1,5 @@
 <resources>
-    <string name="app_name">2024ACCGR1CDFJ</string>
-    <string name="saludo">Hola muchachos!</string>
+    <!-- <string name="saludo">2024ACCGR1CDFJ</string> -->
+    <string name="saludo">Esto es Espanish</string>
+
 </resources>
