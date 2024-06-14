@@ -21,7 +21,7 @@
         android:layout_marginTop="60dp"
         android:text="Anadir"
         app:layout_constraintEnd_toEndOf="@+id/listView"
-        app:layout_constraintHorizontal_bias="0.487"
+        app:layout_constraintHorizontal_bias="1.0"
         app:layout_constraintStart_toStartOf="@+id/listView"
         app:layout_constraintTop_toBottomOf="@+id/listView" />
 </androidx.constraintlayout.widget.ConstraintLayout>
