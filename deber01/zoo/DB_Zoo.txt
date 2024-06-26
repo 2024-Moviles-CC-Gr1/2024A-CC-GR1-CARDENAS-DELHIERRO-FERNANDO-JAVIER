@@ -1,0 +1,12 @@
+ZOO-Fercho;Quito-Ecuador;1970-01-01;100
+ZooCDH;Quito;2500-12-12;200
+ZOO-Fercho;Quito-Ecuador;1970-01-01;100
+ZooCDH;Quito;2500-12-12;200
+ZooMundo;Guayaquil;1985-05-23;150
+ZooNatural;Cuenca;1995-11-15;120
+ZooAmigos;Loja;2000-04-10;80
+ZooSelva;Puyo;1978-03-20;110
+ZooAventura;Tena;1990-09-05;90
+ZooAndino;Latacunga;2010-07-30;140
+ZooCosta;Esmeraldas;1988-12-01;130
+ZooMontaña;Ambato;2005-08-22;160
