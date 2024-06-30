@@ -10,3 +10,4 @@ ZooAventura;Tena;1990-09-05;90
 ZooAndino;Latacunga;2010-07-30;140
 ZooCosta;Esmeraldas;1988-12-01;130
 ZooMontaña;Ambato;2005-08-22;160
+Zoo Examen;GYQ;2000-12-12;200
