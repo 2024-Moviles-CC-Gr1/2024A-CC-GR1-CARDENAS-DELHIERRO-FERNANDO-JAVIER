@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "648588307672",
+    "project_id": "vaes-2024a-cc-gr1",
+    "storage_bucket": "vaes-2024a-cc-gr1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648588307672:android:351fc2ebfd8bcf6ca8fbad",
+        "android_client_info": {
+          "package_name": "com.example.a2024accgr1vaes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQ-UTO242R_A7U2ynglh_KXfUmpJau81Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

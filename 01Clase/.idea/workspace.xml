@@ -34,7 +34,9 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9016b178-43cd-4bbf-ba31-e62bae0e153c" name="Changes" comment="" />
+    <list default="true" id="9016b178-43cd-4bbf-ba31-e62bae0e153c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -95,7 +97,10 @@
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/usuario/Fer-Pc/Escritorio/EPN/2024-A/SEPTIMO_SEMESTRE/APLICACIONES_MOVILES/CC-GR1-CARDENAS-DELHIERRO-FERNANDO-JAVIER/01Clase",
+    "last_opened_file_path": "C:/Users/usuario/Fer-Pc/Escritorio/EPN/2024-A/SEPTIMO_SEMESTRE/APLICACIONES_MOVILES/CC-GR1-CARDENAS-DELHIERRO-FERNANDO-JAVIER/01-clases",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.17",
+    "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "AndroidSdkUpdater"
   }
 }]]></component>
