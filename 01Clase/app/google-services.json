@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "648588307672",
-    "project_id": "cdfj-2024a-cc-gr1",
-    "storage_bucket": "cdfj-2024a-cc-gr1.appspot.com"
+    "project_number": "790048625419",
+    "project_id": "fcdh-2024a-cc-gr1",
+    "storage_bucket": "fcdh-2024a-cc-gr1.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:648588307672:android:351fc2ebfd8bcf6ca8fbad",
+        "mobilesdk_app_id": "1:790048625419:android:4c1b9bfaa3aee22b97480e",
         "android_client_info": {
           "package_name": "com.example.a2024accgr1cdfj"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyDQ-UTO242R_A7U2ynglh_KXfUmpJau81Y"
+          "current_key": "AIzaSyCyBV03K11NAZKxqbJ5ehR3LCiBcYXMy3o"
         }
       ],
       "services": {

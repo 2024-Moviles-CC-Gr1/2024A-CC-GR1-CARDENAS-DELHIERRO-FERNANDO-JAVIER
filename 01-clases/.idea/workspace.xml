@@ -2,30 +2,12 @@
 <project version="4">
   <component name="AndroidLayouts">
     <shared>
-      <config>
-        <locale>en</locale>
-      </config>
+      <config />
     </shared>
     <layouts>
-      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_aciclo_vida.xml">
-        <config>
-          <theme>@style/Theme._2024ACCGR1CDFJ</theme>
-        </config>
-      </layout>
-      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_blist_view.xml">
-        <config>
-          <theme>@style/Theme._2024ACCGR1CDFJ</theme>
-        </config>
-      </layout>
       <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
         <config>
-          <dock>desk</dock>
-          <theme>@style/Theme._2024ACCGR1CDFJ</theme>
-        </config>
-      </layout>
-      <layout url="file://$PROJECT_DIR$/app/src/main/res/menu/menu.xml">
-        <config>
-          <theme>@style/Theme._2024ACCGR1CDFJ</theme>
+          <theme>@style/Theme._2024ACCGR1VAES</theme>
         </config>
       </layout>
     </layouts>
@@ -34,7 +16,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9016b178-43cd-4bbf-ba31-e62bae0e153c" name="Changes" comment="">
+    <list default="true" id="550df867-8217-4336-bf4d-550fc47da3de" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/../01-clases-i/app/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/../01-clases-i/app/build.gradle.kts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../01-clases-i/app/google-services.json" beforeDir="false" afterPath="$PROJECT_DIR$/../01-clases-i/app/google-services.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../01-clases-i/app/src/androidTest/java/com/example/a2024accgr1vaes/ExampleInstrumentedTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../01-clases-i/app/src/androidTest/java/com/example/a2024accgr1cdfj/ExampleInstrumentedTest.kt" afterDir="false" />
@@ -51,67 +33,6 @@
       <change beforePath="$PROJECT_DIR$/../01-clases-i/app/src/main/java/com/example/a2024accgr1vaes/FRecyclerViewAdaptadorNombreDescripcion.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../01-clases-i/app/src/main/java/com/example/a2024accgr1cdfj/FRecyclerViewAdaptadorNombreDescripcion.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../01-clases-i/app/src/main/java/com/example/a2024accgr1vaes/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../01-clases-i/app/src/main/java/com/example/a2024accgr1cdfj/MainActivity.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../01-clases-i/app/src/test/java/com/example/a2024accgr1vaes/ExampleUnitTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../01-clases-i/app/src/test/java/com/example/a2024accgr1cdfj/ExampleUnitTest.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-clases/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-clases/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-clases/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-clases/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-clases/.idea/deploymentTargetDropDown.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-clases/.idea/gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-clases/.idea/kotlinc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-clases/.idea/migrations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-clases/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-clases/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-clases/app/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-clases/app/build.gradle.kts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-clases/app/google-services.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-clases/app/proguard-rules.pro" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-clases/app/src/androidTest/java/com/example/a2024accgr1vaes/ExampleInstrumentedTest.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-clases/app/src/main/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-clases/app/src/main/java/com/example/a2024accgr1vaes/ACicloVida.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-clases/app/src/main/java/com/example/a2024accgr1vaes/BBaseDatosMemoria.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-clases/app/src/main/java/com/example/a2024accgr1vaes/BEntrenador.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-clases/app/src/main/java/com/example/a2024accgr1vaes/BListView.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-clases/app/src/main/java/com/example/a2024accgr1vaes/CIntentExplicitoParametros.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-clases/app/src/main/java/com/example/a2024accgr1vaes/EBaseDeDatos.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-clases/app/src/main/java/com/example/a2024accgr1vaes/ECrudEntrenador.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-clases/app/src/main/java/com/example/a2024accgr1vaes/ESqliteHelperEntrenador.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-clases/app/src/main/java/com/example/a2024accgr1vaes/MainActivity.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-clases/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-clases/app/src/main/res/drawable/ic_launcher_foreground.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-clases/app/src/main/res/layout/activity_aciclo_vida.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-clases/app/src/main/res/layout/activity_blist_view.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-clases/app/src/main/res/layout/activity_cintent_explicito_parametros.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-clases/app/src/main/res/layout/activity_ecrud_entrenador.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-clases/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-clases/app/src/main/res/menu/menu.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-clases/app/src/main/res/mipmap-anydpi/ic_launcher.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-clases/app/src/main/res/mipmap-anydpi/ic_launcher_round.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-clases/app/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-clases/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-clases/app/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-clases/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-clases/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-clases/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-clases/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-clases/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-clases/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-clases/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-clases/app/src/main/res/values-es/strings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-clases/app/src/main/res/values-night/themes.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-clases/app/src/main/res/values/colors.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-clases/app/src/main/res/values/strings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-clases/app/src/main/res/values/themes.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-clases/app/src/main/res/xml/backup_rules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-clases/app/src/main/res/xml/data_extraction_rules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-clases/app/src/test/java/com/example/a2024accgr1vaes/ExampleUnitTest.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-clases/build.gradle.kts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-clases/gradle.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-clases/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-clases/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-clases/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-clases/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-clases/settings.gradle.kts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -142,25 +63,13 @@
       </state>
     </system>
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="valueResourceFile" />
-        <option value="Kotlin Class" />
-        <option value="resourceFile" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProblemsViewState">
-    <option name="selectedTabId" value="CurrentFile" />
-  </component>
   <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 5
+  &quot;associatedIndex&quot;: 8
 }</component>
-  <component name="ProjectId" id="2fdgU4rvSJSPDQYjf4YHx8dLZar" />
+  <component name="ProjectId" id="2jQIDb1fT3JfSBfBanWfasf70TU" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -173,24 +82,12 @@
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/usuario/Fer-Pc/Escritorio/EPN/2024-A/SEPTIMO_SEMESTRE/APLICACIONES_MOVILES/CC-GR1-CARDENAS-DELHIERRO-FERNANDO-JAVIER/01Clase",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.17",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "AndroidSdkUpdater"
+    "last_opened_file_path": "C:/Users/usuario/Fer-Pc/Escritorio/EPN/2024-A/SEPTIMO_SEMESTRE/APLICACIONES_MOVILES/CC-GR1-CARDENAS-DELHIERRO-FERNANDO-JAVIER/01-clases"
   }
 }]]></component>
-  <component name="RecentsManager">
-    <key name="android.template.-1779672339">
-      <recent name="com.example.a2024accgr1cdfj" />
-    </key>
-    <key name="android.template.702998972">
-      <recent name="com.example.a2024accgr1cdfj" />
-    </key>
-  </component>
   <component name="RunManager">
     <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
-      <module name="2024ACCGR1CDFJ.app.main" />
+      <module name="2024ACCGR1VAES.app.main" />
       <option name="DEPLOY" value="true" />
       <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
       <option name="DEPLOY_AS_INSTANT" value="false" />
@@ -260,11 +157,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="9016b178-43cd-4bbf-ba31-e62bae0e153c" name="Changes" comment="" />
-      <created>1714136383372</created>
+      <changelist id="550df867-8217-4336-bf4d-550fc47da3de" name="Changes" comment="" />
+      <created>1721312754675</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1714136383372</updated>
+      <updated>1721312754675</updated>
     </task>
     <servers />
   </component>

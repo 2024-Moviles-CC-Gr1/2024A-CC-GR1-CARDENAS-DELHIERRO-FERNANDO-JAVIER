@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="saludo"> Esto es espaniol </string>
+    <string name = "hi">It is English </string>
+</resources>
