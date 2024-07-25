@@ -55,41 +55,47 @@
 
     <EditText
         android:id="@+id/input_nombre"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="298dp"
+        android:layout_height="77dp"
         android:layout_marginBottom="32dp"
         android:ems="10"
         android:hint="Ingrese nombre"
         android:inputType="textPersonName"
         app:layout_constraintBottom_toTopOf="@+id/input_descripcion"
         app:layout_constraintEnd_toEndOf="@+id/input_descripcion"
-        app:layout_constraintHorizontal_bias="0.0"
-        app:layout_constraintStart_toStartOf="@+id/input_descripcion" />
+        app:layout_constraintHorizontal_bias="0.602"
+        app:layout_constraintStart_toStartOf="@+id/input_descripcion"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="1.0" />
 
     <EditText
         android:id="@+id/input_descripcion"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="304dp"
+        android:layout_height="67dp"
         android:layout_marginBottom="48dp"
         android:ems="10"
         android:hint="Ingrese Descripcion"
         android:inputType="textPersonName"
         app:layout_constraintBottom_toTopOf="@+id/btn_crear_bdd"
         app:layout_constraintEnd_toEndOf="@+id/btn_crear_bdd"
-        app:layout_constraintHorizontal_bias="0.508"
-        app:layout_constraintStart_toStartOf="@+id/btn_crear_bdd" />
+        app:layout_constraintHorizontal_bias="0.434"
+        app:layout_constraintStart_toStartOf="@+id/btn_crear_bdd"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="1.0" />
 
     <EditText
         android:id="@+id/input_id"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="299dp"
+        android:layout_height="68dp"
         android:layout_marginBottom="28dp"
         android:ems="10"
         android:hint="Ingrese id"
         android:inputType="textPersonName"
         app:layout_constraintBottom_toTopOf="@+id/input_nombre"
         app:layout_constraintEnd_toEndOf="@+id/input_nombre"
-        app:layout_constraintHorizontal_bias="0.0"
-        app:layout_constraintStart_toStartOf="@+id/input_nombre" />
+        app:layout_constraintHorizontal_bias="0.595"
+        app:layout_constraintStart_toStartOf="@+id/input_nombre"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="1.0" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
