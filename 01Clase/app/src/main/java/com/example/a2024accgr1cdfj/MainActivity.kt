@@ -137,7 +137,7 @@ class MainActivity : AppCompatActivity() {
 
         val botonGMaps = findViewById<Button>(R.id.btn_google_maps)
         botonGMaps.setOnClickListener{
-            irACtividad(GGoogleMapsActivit::class.java)
+            irACtividad(GGoogleMapsActivity::class.java)
         }
 
     }
@@ -150,4 +150,6 @@ class MainActivity : AppCompatActivity() {
         val intent = Intent(this, clase)
         startActivity(intent)
     }
+
+    
 }
