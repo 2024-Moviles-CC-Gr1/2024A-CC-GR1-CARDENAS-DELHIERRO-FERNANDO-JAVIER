@@ -13,7 +13,11 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.TelegramRecyclerView"
         tools:targetApi="31">
-
+        <activity
+            android:name=".MenuActivity"
+            android:exported="false"
+            android:label="@string/title_activity_menu"
+            android:theme="@style/Theme.TelegramRecyclerView.NoActionBar" />
         <activity
             android:name=".MainActivity"
             android:exported="true"
@@ -21,17 +25,14 @@
             android:theme="@style/Theme.TelegramRecyclerView">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
+
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
-        </activity>
-
-        <!-- Declaración de CallsActivity -->
+        </activity> <!-- Declaración de CallsActivity -->
         <activity
             android:name=".CallsActivity"
             android:exported="true"
-            android:theme="@style/Theme.TelegramRecyclerView" />
-
-        <!-- Declaración de ContactsActivity -->
+            android:theme="@style/Theme.TelegramRecyclerView" /> <!-- Declaración de ContactsActivity -->
         <activity
             android:name=".ContactsActivity"
             android:exported="true"
