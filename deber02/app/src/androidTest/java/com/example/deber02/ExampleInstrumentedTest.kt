@@ -1,4 +1,4 @@
-package com.example.gr1examendemp
+package com.example.deber02
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

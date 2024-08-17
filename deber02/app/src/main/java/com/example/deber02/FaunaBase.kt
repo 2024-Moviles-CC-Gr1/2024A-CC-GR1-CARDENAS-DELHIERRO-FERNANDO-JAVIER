@@ -1,4 +1,4 @@
-package com.example.gr1examendemp
+package com.example.deber02
 
 data class FaunaBase(
     var idAnimal: Int?,

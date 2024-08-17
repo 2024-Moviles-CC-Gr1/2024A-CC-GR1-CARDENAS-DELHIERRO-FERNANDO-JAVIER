@@ -1,4 +1,4 @@
-package com.example.gr1examendemp
+package com.example.deber02
 
 import android.annotation.SuppressLint
 import android.app.AlertDialog
@@ -14,6 +14,7 @@ import android.widget.ArrayAdapter
 import android.widget.Button
 import android.widget.EditText
 import android.widget.ListView
+import com.example.gr1examendemp.R
 import com.google.android.material.snackbar.Snackbar
 
 class BAnimal : AppCompatActivity() {

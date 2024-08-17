@@ -1,4 +1,4 @@
-package com.example.gr1examendemp
+package com.example.deber02
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
@@ -15,6 +15,7 @@ import android.widget.EditText
 import android.widget.ListView
 import com.google.android.material.snackbar.Snackbar
 import android.app.AlertDialog
+import com.example.gr1examendemp.R
 
 class MainActivity : AppCompatActivity() {
 

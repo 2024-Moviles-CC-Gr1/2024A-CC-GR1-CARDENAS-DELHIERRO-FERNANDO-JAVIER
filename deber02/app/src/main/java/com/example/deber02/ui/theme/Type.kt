@@ -1,4 +1,4 @@
-package com.example.gr1examendemp.ui.theme
+package com.example.deber02.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle
