@@ -23,4 +23,6 @@
 
     <style name="Theme.TelegramRecyclerView.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
 
+    <style name="Theme.Deber02" parent="android:Theme.Material.Light.NoActionBar" />
+
 </resources>

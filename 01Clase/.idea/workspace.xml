@@ -65,73 +65,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9016b178-43cd-4bbf-ba31-e62bae0e153c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../telegram/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../telegram/build.gradle.kts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../telegram/proguard-rules.pro" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../telegram/src/androidTest/java/com/example/telegramrecyclerview/ExampleInstrumentedTest.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../telegram/src/main/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../telegram/src/main/java/com/example/telegramrecyclerview/CallAdapter.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../telegram/src/main/java/com/example/telegramrecyclerview/CallType.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../telegram/src/main/java/com/example/telegramrecyclerview/CallsActivity.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../telegram/src/main/java/com/example/telegramrecyclerview/Contact.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../telegram/src/main/java/com/example/telegramrecyclerview/ContactAdapter.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../telegram/src/main/java/com/example/telegramrecyclerview/ContactsActivity.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../telegram/src/main/java/com/example/telegramrecyclerview/MainActivity.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../telegram/src/main/java/com/example/telegramrecyclerview/MenuActivity.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../telegram/src/main/java/com/example/telegramrecyclerview/call.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../telegram/src/main/java/com/example/telegramrecyclerview/ui/gallery/GalleryFragment.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../telegram/src/main/java/com/example/telegramrecyclerview/ui/gallery/GalleryViewModel.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../telegram/src/main/java/com/example/telegramrecyclerview/ui/home/HomeFragment.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../telegram/src/main/java/com/example/telegramrecyclerview/ui/home/HomeViewModel.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../telegram/src/main/java/com/example/telegramrecyclerview/ui/slideshow/SlideshowFragment.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../telegram/src/main/java/com/example/telegramrecyclerview/ui/slideshow/SlideshowViewModel.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../telegram/src/main/java/com/example/telegramrecyclerview/ui/theme/Color.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../telegram/src/main/java/com/example/telegramrecyclerview/ui/theme/Theme.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../telegram/src/main/java/com/example/telegramrecyclerview/ui/theme/Type.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../telegram/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../telegram/src/main/res/drawable/ic_launcher_foreground.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../telegram/src/main/res/drawable/ic_menu_camera.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../telegram/src/main/res/drawable/ic_menu_gallery.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../telegram/src/main/res/drawable/ic_menu_slideshow.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../telegram/src/main/res/drawable/side_nav_bar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../telegram/src/main/res/layout/activity_calls.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../telegram/src/main/res/layout/activity_contacts.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../telegram/src/main/res/layout/activity_main.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../telegram/src/main/res/layout/activity_menu.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../telegram/src/main/res/layout/app_bar_menu.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../telegram/src/main/res/layout/content_menu.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../telegram/src/main/res/layout/fragment_gallery.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../telegram/src/main/res/layout/fragment_home.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../telegram/src/main/res/layout/fragment_slideshow.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../telegram/src/main/res/layout/item_call.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../telegram/src/main/res/layout/item_contact.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../telegram/src/main/res/layout/nav_header_menu.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../telegram/src/main/res/menu/activity_main_drawer.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../telegram/src/main/res/menu/menu.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../telegram/src/main/res/mipmap-anydpi/ic_launcher.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../telegram/src/main/res/mipmap-anydpi/ic_launcher_round.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../telegram/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../telegram/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../telegram/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../telegram/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../telegram/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../telegram/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../telegram/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../telegram/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../telegram/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../telegram/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../telegram/src/main/res/navigation/mobile_navigation.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../telegram/src/main/res/values-land/dimens.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../telegram/src/main/res/values-w1240dp/dimens.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../telegram/src/main/res/values-w600dp/dimens.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../telegram/src/main/res/values/colors.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../telegram/src/main/res/values/dimens.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../telegram/src/main/res/values/strings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../telegram/src/main/res/values/themes.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../telegram/src/main/res/xml/backup_rules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../telegram/src/main/res/xml/data_extraction_rules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../telegram/src/test/java/com/example/telegramrecyclerview/ExampleUnitTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/values/themes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/res/values/themes.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../settings.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/../settings.gradle.kts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -193,7 +132,7 @@
     &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
     &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/usuario/Fer-Pc/Escritorio/EPN/2024-A/SEPTIMO_SEMESTRE/APLICACIONES_MOVILES/appdeber02/Telegram&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/usuario/Fer-Pc/Escritorio/EPN/2024-A/SEPTIMO_SEMESTRE/APLICACIONES_MOVILES/Exam2Bimestre/2023B-mov-gr1cca-mena-pasquel-david-enrique/02.2-android(Deber-02)&quot;,
     &quot;project.structure.last.edited&quot;: &quot;SDK Location&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.17&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
