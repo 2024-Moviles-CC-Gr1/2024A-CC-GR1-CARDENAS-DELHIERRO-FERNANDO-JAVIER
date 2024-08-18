@@ -42,3 +42,6 @@ Selecciona "Leer Zoológicos" para ver una lista de los zoológicos registrados.
 Notas
 Los datos de los animales y los zoológicos se almacenan en archivos de texto (DB_Animals.txt y DB_Zoo.txt).
 Asegúrate de que estos archivos existan en el directorio raíz del proyecto para evitar errores de lectura/escritura.
+Examen 
+Deber 02 
+Deber03
